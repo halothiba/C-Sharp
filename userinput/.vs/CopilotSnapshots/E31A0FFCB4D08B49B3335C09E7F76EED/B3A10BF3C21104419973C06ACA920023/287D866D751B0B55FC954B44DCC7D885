@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace userinput
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Enter Your First Name: ");
+            String fname = Console.ReadLine();
+            Console.WriteLine("Enter Your Last Name: ");
+            String lname = Console.ReadLine();
+            Console.WriteLine("DOB: ");
+            String dob = Console.ReadLine();
+            Console.WriteLine("Admission Number: ");
+            int adnum = int.Parse( Console.ReadLine());
+            Console.WriteLine("Telephone Number: ");
+            int tpnum = int.Parse(Console.ReadLine());
+            Console.WriteLine("Gender: ");
+            String gender = Console.ReadLine();
+            Console.WriteLine("Enter Your NIC No: ");
+            int nicnum = int.Parse(Console.ReadLine());
+
+            Console.WriteLine(fname);
+            Console.WriteLine(lname);
+            Console.WriteLine(dob);
+            Console.WriteLine(adnum);
+            Console.WriteLine(tpnum);
+            Console.WriteLine(gender);
+            Console.WriteLine(nicnum);
+        }
+    }
+}

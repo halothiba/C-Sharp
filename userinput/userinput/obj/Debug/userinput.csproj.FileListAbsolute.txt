@@ -1,0 +1,7 @@
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\obj\Debug\userinput.csproj.AssemblyReference.cache
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\obj\Debug\userinput.csproj.CoreCompileInputs.cache
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\bin\Debug\userinput.exe.config
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\bin\Debug\userinput.exe
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\bin\Debug\userinput.pdb
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\obj\Debug\userinput.exe
+C:\Users\thiba\OneDrive\Documents\C# (C sharp)\userinput\userinput\obj\Debug\userinput.pdb
